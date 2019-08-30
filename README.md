@@ -29,3 +29,4 @@ Please refer to this article [Maven - Spring 3 MVC Hello World ](http://www.mkyo
 #merge
 #include that
 #commit check trigger new
+#checking new trigger changes
