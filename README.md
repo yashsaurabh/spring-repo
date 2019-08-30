@@ -28,3 +28,4 @@ Please refer to this article [Maven - Spring 3 MVC Hello World ](http://www.mkyo
 #newcommit
 #merge
 #include 
+#commit to test
